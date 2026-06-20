@@ -1,1 +1,5 @@
-test
+- test.txtの既存テキストをすべて削除する
+- 実行内容を箇条書きでtest.txtに書き込む
+- 変更をgit addでステージングする
+- git commitでコミットする
+- devブランチにgit pushする
